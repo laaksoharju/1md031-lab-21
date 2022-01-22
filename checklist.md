@@ -8,4 +8,6 @@ Before you submit the final version of your labs, make sure that your project fu
 
 ## 01 Git
 
-- [X] Fork and clone the 1md031-lab-21 repository
+- [x] Fork and clone the 1md031-lab-21 repository
+
+-From NewBranch
